@@ -1,4 +1,1 @@
-# emissions
-Causal Impact of Massachusetts' 2003 Energy Policy on CO₂ Emissions
-
-This repository is currently being finalized and cleaned for public release. Full documentation, code, and results will be available soon.
+This project evaluates the impact of Massachusetts’ 2003 Renewable Portfolio Standard on electricity-sector CO₂ emissions using the Synthetic Control Method, alongside predictive modeling with Random Forests and Principal Component Regression. 
